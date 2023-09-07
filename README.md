@@ -1,7 +1,8 @@
-# Configuration DHCP and DNS in Cisco IOS
+# DHCP and DNS Configuration in Cisco IOS
 ![Network Topology](https://imgur.com/1Tw8suy.jpg)
 
-Introduction: 
+## SUMMARY
+First, Router1 is configured as a DHCP server as well as a default gateway for 2 PCs. With excluded addresses, Router1 is prevented from leasing certain IPs to clients to avoid IP address conflicts. Next, Router1 is configured as DNS server to look up hostnames itself as well as to provide name resolutions for PCs. Lastly, Router1’s DHCP server is configured to send the default domain to PCs. This lab is completed in Boson NetSim CCNA 200-301.
 
 ### IP Addresses
 | Device                   | Interface    |  IP    | Subnet 
