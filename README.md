@@ -12,6 +12,10 @@ First, Router1 is configured as a DHCP server as well as a default gateway for 2
 | Router1                  | FastEthernet 1/0 | 10.10.1.1 | 255.255.255.0
 | Switch 1                 | VLAN 1 |10.10.1.11 | 255.255.255.0
 | Switch2                  | VLAN 1 |10.10.1.12| 255.255.255.0
+
+## Below is step-by-step configuration video  
+[![Watch the video](https://img.youtube.com/vi/sz0v9qVUc4s/hqdefault.jpg)](https://youtu.be/sz0v9qVUc4s)
+
 ## Step 1: Configure DHCP 
 1. First, let's see the IP configuration of each PC and configure them to obtain IP addresses by using DHCP.\
 	***C:>ipconfig | C:>ipconfig /ip dhcp***
