@@ -13,7 +13,7 @@ First, Router1 is configured as a DHCP server as well as a default gateway for 2
 | Switch 1                 | VLAN 1 |10.10.1.11 | 255.255.255.0
 | Switch2                  | VLAN 1 |10.10.1.12| 255.255.255.0
 
-## Below is step-by-step configuration video  
+## Below is a step-by-step video recorded  
 [![Watch the video](https://img.youtube.com/vi/sz0v9qVUc4s/hqdefault.jpg)](https://youtu.be/sz0v9qVUc4s)
 
 ## Step 1: Configure DHCP 
